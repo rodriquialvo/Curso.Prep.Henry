@@ -1,0 +1,26 @@
+ejercicio:
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+VARIABLES:
+una variables es como si fuera una cajita en donde yo puedo almacenar cosas (datos, numeros, palabras, cadena de textos, etc)
+
+STRINGS: 
+un strings es un tipo de dato que en este caso vendria a ser una cadena de texto o de caracteres mejor dicho.
+
+FUNCIONES (ARGUMENTOS, 'RETURN')
+las funciones nos permiten crear un codigo que podamos usarlo cuants veces queramos. esto nos permite no tener q estar copiando y pegando codigo y simplifica mucho la escritura del codigo en general.
+los argumentos serian como "variables" dentro de la funciones.
+el return es lo q yo quiero q me devuelva la funcion.
+por ejemplo
+si yo tengo dos variables "a" y "b" y quiero q me devuelva una suma de ambas entonces:
+"return a + b;"
+
+VALORES BOOLEANOS ('TRUE', 'FALSE',)
+LOS VALORES BOOLEANOS LO USAMOS PARA SIGNIFICAR SI ALGO ES VERDADERO O FALSO. TAMBIEN LO USAMOS CUANDO QUEREMOS COMPARAR UNA CONDICION.
+POR EJEMPLO SI QUEREMOS QUE SE EJECUTE TAL COSA SI LA EXPRESION "X" ES VERDADERA. Y QUE SE EJECUTE TAL COSA2 SI LA EXPRESION "X" ES FALSA
