@@ -1,0 +1,26 @@
+1. En un archivo de texto separado que debes 
+crear, escribe explicaciones de los siguientes
+ conceptos como si se lo estuvieras explicando 
+a un niño de 12 años. Hacer esto te ayudará a 
+descubrir rápidamente cualquier agujero en tu 
+comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+-"for":
+	el for sirve para crear un bucle repetitivo en nuestro codigo la cantidad de veces 
+que nosotros queramos.
+utilizamos un contador y el bucle se va a repetir hasta que el contador llegue al maximo o minimo que le 
+hallamos indicado previamente.
+
+-"&&"
+	cuando comparamos dos o mas condiciones. el && (and) nos devolvera VERDADERO si y solo si todas 
+las condiciones son verdaderas.
+
+-"||"
+	cuando comparamos dos o mas condiciones || (OR) nos devolvera verdadero cuando AL MENOS 
+una condicion es verdadera.
+
+"!"
+	! (NOT) nos devolvera el valor contrario. por ejemplo !TRUE = FALSE y !FALSE = TRUE.
