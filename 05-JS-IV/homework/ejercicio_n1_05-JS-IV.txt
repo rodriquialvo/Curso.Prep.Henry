@@ -1,0 +1,20 @@
+
+#objetos 
+un objeto seria como un contenedor en donde puedo tener informacion de todo tipo
+como funciones, propiedades, arrays, etc
+
+#propiedades
+las propiedades serian como una "especie de variables" dentro de los objetos
+
+#metodos 
+metodos le llamamos a las funciones que estan dentro de un objeto.
+
+#bucle for in 
+(no lo hemos visto aun)
+
+#para acceder a las propiedades o metodos de un objeto tenemos dos formas:
+la primera a travez del metodo de los puntos seria algo asi:
+	objeto.propiedad;
+
+la segunda forma es atravez de corchetes seria asi:
+	objeto[metodo]();
